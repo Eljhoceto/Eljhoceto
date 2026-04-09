@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://imgur.com/a/DnjZ1XJ" alt="Banner con temática espacial" width="800px">
-
   # 🚀 ¡Hola! Soy Elmer 👨‍🚀
   
   Soy un practicante desarrollador de software apasionado por la exploración de nuevas tecnologías. Me encanta construir aplicaciones que lleven la experiencia del usuario a otro planeta! 🌌
+
+  <div align="center">
+  <img src="https://es.dreamstime.com/codificaci%C3%B3n-astronauta-en-el-espacio-con-un-fondo-c%C3%B3smico-vibrante-y-flujos-de-datos-iluminados-se-dedica-codificar-mientras-video356236971" alt="Banner con temática espacial" width="800px">
   
   ## 🛰️ Mi Proyecto Estelar
   
-  - [Starshattered](link al repo) - Un emocionante juego espacial desarrollado en C++. 🌠
+  - [Starshattered] - Un emocionante juego espacial desarrollado en C++. 🌠
   
   ## 🪐 Lenguajes y Herramientas del Cosmos
   
@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+</p>
   
   ## 📡 Sígueme en mi Odisea Espacial
   
