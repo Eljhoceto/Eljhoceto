@@ -1,61 +1,32 @@
 <div align="center">
-  <img src="https://i.imgur.com/tuimagen.jpg" alt="Foto o logo" width="200px">
+  <img src="https://imgur.com/a/DnjZ1XJ" alt="Banner con temática espacial" width="800px">
+
+  # 🚀 ¡Hola! Soy Elmer 👨‍🚀
   
-  # 🚀 ¡Hola! Soy [Tu Nombre] 👨‍🚀
+  Soy un practicante desarrollador de software apasionado por la exploración de nuevas tecnologías. Me encanta construir aplicaciones que lleven la experiencia del usuario a otro planeta! 🌌
   
-  Soy un desarrollador de software apasionado por la exploración de nuevas tecnologías. Me encanta construir aplicaciones que lleven la experiencia del usuario a otro planeta! 🌌
+  ## 🛰️ Mi Proyecto Estelar
   
-  ## 🛰️ Mis Proyectos Estelares
-  
-  - [Proyecto Andrómeda](link al repo) - Descripción breve del proyecto. 🔭
-  - [Proyecto Constelación](link al repo) - Descripción breve del proyecto. ✨
-  - [Proyecto Nebulosa](link al repo) - Descripción breve del proyecto. 💫
+  - [Starshattered](link al repo) - Un emocionante juego espacial desarrollado en C++. 🌠
   
   ## 🪐 Lenguajes y Herramientas del Cosmos
   
   <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-
+  
   ## 📡 Sígueme en mi Odisea Espacial
   
   <p>
-    <a href="https://wa.me/tunumero" target="_blank">
-      <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
-    </a>
-    <a href="https://www.tiktok.com/@tiktokhandle" target="_blank">
-      <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=for-the-badge" />
-    </a>
-    <a href="https://www.instagram.com/tuinstagram" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/tulinkedin/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-    </a>
-  </p>
-
+    <a href="https://wa.me/59172880349" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://www.tiktok.com/@elmerjct" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="https://www.instagram.com/@elmercervantest" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   ## 🌠 Siempre Explorando Nuevas Fronteras
   
-  Actualmente estoy aprendiendo [tecnología/lenguaje]. Mi próxima misión será desarrollar una aplicación que [descripción breve]. ¡Manténte al tanto de mis aventuras! 🗺️
+  Actualmente estoy aprendiendo [tecnología/lenguaje]. ¡Manténte al tanto de mis aventuras espaciales! 🗺️
   
-  ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  <img src="https://github-readme-stats.vercel.app/api?username=Eljhoceto&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff" alt="Elmer's GitHub stats" />
 </div>
-
-<!--
-**Eljhoceto/Eljhoceto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
