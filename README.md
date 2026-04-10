@@ -3,7 +3,7 @@
   Soy un practicante desarrollador de software apasionado por la exploración de nuevas tecnologías. Me encanta construir aplicaciones que lleven la experiencia del usuario a otro planeta! 🌌
 
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner con temática espacial" width="800px">
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
   
   ## 🛰️ Mi Proyecto Estelar
   
