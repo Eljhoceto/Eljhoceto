@@ -27,7 +27,6 @@
     <a href="https://www.instagram.com/@elmercervantest" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   ## 🌠 Siempre Explorando Nuevas Fronteras
   
-  Actualmente estoy aprendiendo [tecnología/lenguaje]. ¡Manténte al tanto de mis aventuras espaciales! 🗺️
+  Actualmente estoy aprendiendo c++. ¡Manténte al tanto de mis aventuras espaciales! 🗺️
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Eljhoceto&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff" alt="Elmer's GitHub stats" />
 </div>
