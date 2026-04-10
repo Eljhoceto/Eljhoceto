@@ -3,7 +3,7 @@
   Soy un practicante desarrollador de software apasionado por la exploración de nuevas tecnologías. Me encanta construir aplicaciones que lleven la experiencia del usuario a otro planeta! 🌌
 
   <div align="center">
-  <img src="https://es.dreamstime.com/codificaci%C3%B3n-astronauta-en-el-espacio-con-un-fondo-c%C3%B3smico-vibrante-y-flujos-de-datos-iluminados-se-dedica-codificar-mientras-video356236971" alt="Banner con temática espacial" width="800px">
+  <img src="Gemini_Generated_Image_j804scj804scj804.png1" alt="Banner con temática espacial" width="800px">
   
   ## 🛰️ Mi Proyecto Estelar
   
